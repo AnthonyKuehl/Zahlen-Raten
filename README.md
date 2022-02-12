@@ -1,2 +1,4 @@
-# Zahlen-Raten
-Zahlen Raten Spiel mit HTML, CSS, JS
+# CREATOR
+HTML, CSS, JS Zahlen Raten Spiel <br>
+CREATOR = @AnthonyKuehl <br>
+<strong>ALL PRIVATE: NOT TO UPLOAD ON INTERNET FOR PUBLIC</strong>
