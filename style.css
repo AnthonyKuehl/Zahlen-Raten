@@ -1,0 +1,22 @@
+* {
+    background-color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+}
+
+#zahlanzeige {
+    font-size: 125px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+    margin-right: 1rem;
+}
